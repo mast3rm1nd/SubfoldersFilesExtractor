@@ -1,0 +1,13 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\bin\Debug\SubfoldersFilesExtractor.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\bin\Debug\SubfoldersFilesExtractor.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\SubfoldersFilesExtractor\SubfoldersFilesExtractor\obj\Debug\SubfoldersFilesExtractor.pdb
